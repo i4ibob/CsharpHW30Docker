@@ -1,0 +1,6 @@
+@CsharpHW30Docker_HostAddress = http://localhost:5198
+
+GET {{CsharpHW30Docker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
